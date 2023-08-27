@@ -5,7 +5,7 @@
  <a href="https://to-do-list-fuotd6mnk-lucaslandivar.vercel.app">Click here</a>
   
 <h2>Description of the project</h2>
-<p>I make a To-Do List in JavaScript, wich helps the user to organize his tasks into a simple way. I already make a project similar (Mymeds), wich help me make the To-Do list a lot easier, but in this project, i also make the function that saves the data in the browser, so even if the user close the browser the list will remain with the same information.</p> 
+<p>I make a To-Do List in JavaScript, wich helps the user to organize his tasks into a simple way. I already make a project similar (Mymeds), wich help me make the To-Do list a lot easier, but in this project, i also make the function that saves the data in the browser, so even if the user close the browser the list will remain with the same information. With this project i learn more about the DOM and how to create elements, i want to upgrade this project and made a new To-do list with new functions.</p> 
 
 <h2>Why i make this project?</h2>
 <p>I make this project so i can learn how to make a better way to store data in the browser and also to learn how to make a better to do list.</p>
